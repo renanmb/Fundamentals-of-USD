@@ -1,9 +1,9 @@
 # Fundamentals-of-USD
  
 Original Authors:
-Jen <br/>
-Mathi <br/>
-Eric <br/>
+Jen Borucki <br/>
+Matias Cordesal <br/>
+Eric Bowman <br/>
 Danielle Detering <br/>
 
 Modified by: Renan Monteiro Barbosa <br/>
